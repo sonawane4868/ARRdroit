@@ -1,0 +1,58 @@
+*
+{
+    margin: 0%;
+    padding:0%;
+}
+h1
+{
+    font-family: 'Dancing Script' ,cursive;
+}
+.navbar
+{
+    box-shadow: 2px 2px 7px;
+}
+
+.navbar-brand
+{
+    text-shadow: 0 3px 5px ;
+    font-size: 40px;
+
+}
+.carousel-item img
+{
+    height: 650px;
+    width: 100%;
+}
+.card-body
+{
+    border: 1px solid rgb(158, 156, 156);
+}
+.team .card-body img
+{
+    min-width: 40%;
+    height: 300px;
+}
+
+.contact img
+{
+    height: 400px;
+    width: auto;
+}
+
+.container,.container-fluid
+{
+    margin-left: 0%;
+    margin-right: 0%;
+    
+}
+.about
+{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.services
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
